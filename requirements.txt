@@ -1,0 +1,5 @@
+alive-progress==3.1.1
+dlisio==0.3.7
+pandas==2.0.1
+pandocfilters==1.5.0
+rich==13.4.2

@@ -1,0 +1,50 @@
+[
+    {
+        "file": "1JQ__0001__AM_1JQ__0001__AM.dlis",
+        "well": "1-JQ-1-AM",
+        "size": "2.19 MB",
+        "error": false,
+        "error_message": null,
+        "logical_files": 9
+    },
+    {
+        "file": "1BT__0002__AM_1BT__0002__AM.dlis",
+        "well": "1-BT-2-AM",
+        "size": "2.47 MB",
+        "error": false,
+        "error_message": null,
+        "logical_files": 8
+    },
+    {
+        "file": "1RZ__0001__AC_1RZ__0001__AC.dlis",
+        "well": "1-RZ-1-AC",
+        "size": "3.35 MB",
+        "error": false,
+        "error_message": null,
+        "logical_files": 6
+    },
+    {
+        "file": "1SD__0001__AC_1SD__0001__AC.dlis",
+        "well": "1-SD-1-AC",
+        "size": "3.95 MB",
+        "error": false,
+        "error_message": null,
+        "logical_files": 7
+    },
+    {
+        "file": "1BT__0001__AM_1BT__0001__AM.dlis",
+        "well": "1-BT-1-AM",
+        "size": "5.31 MB",
+        "error": false,
+        "error_message": null,
+        "logical_files": 20
+    },
+    {
+        "file": "1RPX_0001__AM.dlis",
+        "well": "1-RPX-1-AM",
+        "size": "33.59 MB",
+        "error": false,
+        "error_message": null,
+        "logical_files": 25
+    }
+]
